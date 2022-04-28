@@ -8,6 +8,7 @@ namespace MyGitProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Slava Ukraini!");
+            Console.WriteLine("Hello Wwtgeryhetyheyhorld!");
         }
     }
 }
